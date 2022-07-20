@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "ankit",
+      "age": 23,
+      "city": "prime1",
+      "gender": "male",
+      "id": 1658318056088
+    },
+    {
+      "name": "ankit",
+      "age": 6,
+      "city": "prime2",
+      "gender": "male",
+      "id": 1658323445631
+    },
+    {
+      "name": "ankit",
+      "age": 9,
+      "city": "prime1",
+      "gender": "male",
+      "id": 1658323543639
+    }
+  ]
+}
